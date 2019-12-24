@@ -25,7 +25,7 @@ SECRET_KEY = 'iip#nkdo-n%=fb$o3z4j4jbi2#9n!cbv=h0s6bi0ft1(g6u72='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['django-env.ezjdhsa3pk.us-east-1.elasticbeanstalk.com']
 
 
 # Application definition
